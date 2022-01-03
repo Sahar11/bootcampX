@@ -1,0 +1,34 @@
+         name         |             email             | id  | cohort_id 
+----------------------+-------------------------------+-----+-----------
+ Elliot Dickinson     | derrick_pollich@gmail.com     |   4 |         1
+ Obie Howell          | elisha_wisoky@gmail.com       |  10 |         1
+ Hiram Veum           | kristopher.shanahan@gmail.com |  11 |         1
+ Anissa Harris        | maye_wyman@gmail.com          |  42 |         3
+ Owen Wuckert         | annabelle.baumbach@gmail.com  |  48 |         3
+ Jordy Bruen          | chet_mcdermott@gmail.com      |  49 |         4
+ Wilma Konopelski     | leuschke.mervin@gmail.com     |  55 |         4
+ Elise Grant          | jamaal_borer@gmail.com        |  60 |         4
+ Mohammad Strosin     | wintheiser_barney@gmail.com   |  74 |         5
+ Anita Goyette        | jake.baumbach@gmail.com       |  92 |         6
+ Linda Adams          | jazmin_kuhn@gmail.com         | 108 |         8
+ Ludwig Kling         | bernadine_morar@gmail.com     | 113 |         8
+ Raoul Lebsack        | hegmann.lee@gmail.com         | 119 |         9
+ Justus Blick         | lavina.bernier@gmail.com      | 122 |         9
+ Eloisa Quigley       | schmidt.ansel@gmail.com       | 123 |         9
+ Matilde Pacocha      | tianna.dickens@gmail.com      | 126 |         9
+ Deja McKenzie        | eryn.osinski@gmail.com        | 127 |         9
+ Rusty Rolfson        | carson_rice@gmail.com         | 136 |         9
+ Kaleigh Considine    | jessie_wisozk@gmail.com       | 138 |         9
+ Courtney Schamberger | dora_schamberger@gmail.com    | 148 |        10
+ Billie Mitchell      | alfredo.littel@gmail.com      | 154 |        11
+ Cory Toy             |                               | 161 |        11
+ Elda McClure         |                               | 164 |        11
+ Ike Lockman          | goodwin_zelda@gmail.com       | 166 |        11
+ Luisa Sipes          |                               | 168 |        11
+ Javonte Ward         | jessie_howell@hotmail.com     | 178 |          
+ Ibrahim Schimmel     | paucek.misael@gmail.com       | 186 |          
+ Jessika Jenkins      | stephanie.koss@kevon.io       | 187 |          
+ Jerrold Rohan        | wehner.twila@hotmail.com      | 189 |          
+ Vivienne Larson      |                               | 191 |          
+(30 rows)
+
